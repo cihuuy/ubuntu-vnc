@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER Marco Pantaleoni <marco.pantaleoni@gmail.com>
+MAINTAINER gumo <gumogumo@gmail.com>
 
 RUN echo "Europe/Rome" > /etc/timezone
 # RUN sudo ln -fs /usr/share/zoneinfo/Europe/Rome /etc/localtime
